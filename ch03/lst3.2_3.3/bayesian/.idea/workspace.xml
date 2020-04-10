@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72f5d725-fcbf-48dc-b846-bd959187cf08" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aM9kxdl6nWMt321clwhK0Ujpl4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ognjenj.bayesian" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72f5d725-fcbf-48dc-b846-bd959187cf08" name="Default Changelist" comment="" />
+      <created>1586534742880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586534742880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="27" width="800" height="672" key="#Project_Structure" timestamp="1586535047660">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="278" y="27" width="800" height="672" key="#Project_Structure/0.0.1366.733@0.0.1366.733" timestamp="1586535047660" />
+    <state x="466" y="228" width="434" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586534864582">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="466" y="228" width="434" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.733@0.0.1366.733" timestamp="1586534864582" />
+    <state x="440" y="230" width="475" height="265" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586535152443">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="440" y="230" width="475" height="265" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.733@0.0.1366.733" timestamp="1586535152443" />
+    <state x="187" y="0" key="SettingsEditor" timestamp="1586535378244">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="187" y="0" key="SettingsEditor/0.0.1366.733@0.0.1366.733" timestamp="1586535378244" />
+    <state x="484" y="149" width="387" height="433" key="chooseDestDirectoryDialog" timestamp="1586534864089">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="484" y="149" width="387" height="433" key="chooseDestDirectoryDialog/0.0.1366.733@0.0.1366.733" timestamp="1586534864089" />
+  </component>
+</project>

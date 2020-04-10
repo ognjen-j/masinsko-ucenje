@@ -1,0 +1,5 @@
+#!/bin/bash
+cd bayesian
+mvn clean install
+cd ..
+java -cp bayesian/target/bayesian-1.0-SNAPSHOT.jar ognjenj.bayesian.BajesovKlasifikator

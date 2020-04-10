@@ -1,0 +1,5 @@
+#!/bin/bash
+cd xgboost
+mvn clean install
+cd ..
+java -cp xgboost/target/lib/*:xgboost/target/xgboost-1.0-SNAPSHOT.jar ognjenj.xgboost.XGBoostTest data/nba_training_full.svm data/nba_testing.svm

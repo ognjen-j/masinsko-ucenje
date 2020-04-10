@@ -1,0 +1,5 @@
+#!/bin/bash
+cd kmeans
+mvn clean install
+cd ..
+java -cp kmeans/target/kmeans-1.0-SNAPSHOT.jar ognjenj.kmeans.KMeans

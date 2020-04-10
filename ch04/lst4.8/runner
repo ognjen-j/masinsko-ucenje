@@ -1,0 +1,5 @@
+#!/bin/bash
+cd dbscan
+mvn clean install
+cd ..
+java -cp dbscan/target/dbscan-1.0-SNAPSHOT.jar ognjenj.dbscan.DBScan

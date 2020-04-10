@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp ttt/target/ttt-1.0.0-jar-with-dependencies.jar ognjenj.ttt.runner.AIGameRunner

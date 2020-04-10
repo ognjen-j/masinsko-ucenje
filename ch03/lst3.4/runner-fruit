@@ -1,0 +1,5 @@
+#!/bin/bash
+cd dtree
+mvn clean install
+cd ..
+java -cp dtree/target/dtree-1.0-SNAPSHOT.jar ognjenj.dtree.Stablo data/fruit_train.csv data/fruit_test.csv

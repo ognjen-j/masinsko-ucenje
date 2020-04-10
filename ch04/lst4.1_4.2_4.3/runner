@@ -1,0 +1,5 @@
+#!/bin/bash
+cd hcluster
+mvn clean install
+cd ..
+java -cp hcluster/target/hcluster-1.0-SNAPSHOT.jar ognjenj.hcluster.HijerarhijskoGrupisanje

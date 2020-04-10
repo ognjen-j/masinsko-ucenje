@@ -1,0 +1,14 @@
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/runner/HumanGameRunner.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/game/Igra.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/player/IgracCovjek.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/runner/AIGameRunnerEnforcer.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/player/IgracQ.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/util/MathUtil.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/util/MatrixUtil.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/player/IgracApstraktni.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/runner/AIGameRunner.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/game/Potez.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/player/AutoPlayer.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/game/Tabla.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/runner/QGameRunner.java
+/home/ognjen/Documents/Naucni radovi/Uvod u mašinsko učenje/primjeri/masinsko-ucenje/ch08/ttt/src/main/java/ognjenj/ttt/player/IgracANN.java

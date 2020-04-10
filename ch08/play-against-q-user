@@ -1,0 +1,7 @@
+#!/bin/bash
+if [ $# -lt 1 ]
+then
+	echo "Provide the path to the Q model file as the first argument"
+else
+	java -cp ttt/target/ttt-1.0.0-jar-with-dependencies.jar ognjenj.ttt.runner.HumanGameRunner $1	
+fi
